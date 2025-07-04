@@ -1,15 +1,8 @@
-### :shinto_shrine: Emmi (She/Her)
-`Hobbyist programmer and sysadmin.`
+### :shinto_shrine: Emmi (Any/All but mostly They/Them)
+`Habitual Emacs Masochist`
 
-:telephone_receiver: Talk to me about: **PGP and Cryptography**
-
-I write in:
+# I write in:
+- C
 - Python
+- Swift
 - Lua
-- C++
-- JavaScript
-
-...With some knowledge of:
-- Pascal
-- x86 Assembly
-- Java
